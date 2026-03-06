@@ -1,1 +1,10 @@
 *.doc
+
+# C++ build
+build/
+out/
+*.o
+*.obj
+*.exe
+*.out
+*.app
